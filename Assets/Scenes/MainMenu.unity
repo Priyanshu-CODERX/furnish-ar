@@ -1063,15 +1063,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 234
+    m_Left: 160
     m_Right: 0
-    m_Top: 250
+    m_Top: 201
     m_Bottom: 300
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 100, y: 100}
-  m_Spacing: {x: 400, y: 500}
+  m_CellSize: {x: 80, y: 80.6}
+  m_Spacing: {x: 322.3, y: 388.33}
   m_Constraint: 0
   m_ConstraintCount: 2
 --- !u!1 &222226195
@@ -3301,15 +3301,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 234
+    m_Left: 160
     m_Right: 0
-    m_Top: 250
+    m_Top: 201
     m_Bottom: 300
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 100, y: 100}
-  m_Spacing: {x: 400, y: 500}
+  m_CellSize: {x: 80, y: 80.6}
+  m_Spacing: {x: 322.3, y: 388.33}
   m_Constraint: 0
   m_ConstraintCount: 2
 --- !u!1 &1074391118
