@@ -8,4 +8,4 @@ Furnish AR is an Augmented Reality Application that helps a customer by augmenti
 - Sketchfab Plugin 1.2.1
 
 ## 🎇 User Interface:
-![User_Interface](https://drive.google.com/uc?export=download&id=1iwy2jGIuaJ4i80PwLmGh1FeK5V3EYhi1)
+![User_Interface](https://i.ibb.co/vDs3M54/Furnish-AR-UO.png)
