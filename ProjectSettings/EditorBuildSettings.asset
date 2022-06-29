@@ -11,6 +11,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ARScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Wall&FloorPaintScenes/Arabesque Tiles.unity
+    guid: 30ef81bab13c30b43b437ca13b65fee1
+  - enabled: 1
+    path: Assets/Scenes/Wall&FloorPaintScenes/Glazed Bricks.unity
+    guid: 30e27c69847ad25469774b5125e28d0e
+  - enabled: 1
+    path: Assets/Scenes/Wall&FloorPaintScenes/Hexagonal Block Wall.unity
+    guid: fc4263b2712adb347987c84bbbb4c48b
+  - enabled: 1
+    path: Assets/Scenes/Wall&FloorPaintScenes/Ornate Walls.unity
+    guid: d0d3f3ad72a47744a909c52c2a94079e
+  - enabled: 1
+    path: Assets/Scenes/Wall&FloorPaintScenes/Patterened Concrete Tiles.unity
+    guid: b0d5416023cb59d489df462b1c47082a
+  - enabled: 1
+    path: Assets/Scenes/Wall&FloorPaintScenes/Wood Mosaic Walls.unity
+    guid: 63950519d165d914fb902dd86a3c134f
+  - enabled: 1
+    path: Assets/Scenes/Wall&FloorPaintScenes/Wood Wall Panel.unity
+    guid: 29e8064eaa73e7a4b848e3f23fbfcce9
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: aa54469c10f247b449bc780feab24659, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ccbf8994eb7b5c44a5b2b42d95d7d08, type: 2}
